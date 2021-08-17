@@ -1,5 +1,5 @@
 # Netflix-Clone
-A clone of the Netflix website using React for practice.
+A clone of the Netflix website using React for practice. A live version is available here: https://nx-clone.web.app/
 
 ## Launching the Application
 
